@@ -1,1 +1,4 @@
-test index.php
+<?php
+
+echo 'Hi dd';
+
